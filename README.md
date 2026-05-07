@@ -3,7 +3,7 @@
 
 # Passo a passo para execução
 1. Baixar a pasta "executavel" e rodar.
-2. Como alternativa caso o priemiro passo nao funcione, baixar a pasta "codigo_fonte" e criar um projeto em C++ com os arquivos
+2. Como alternativa caso o primeiro passo nao funcione, baixar a pasta "codigo_fonte" e criar um projeto em C++ com os arquivos
 3. Compilar o projeto e rodar
 4. Essa tela aparecerá
    <img width="321" height="161" alt="image" src="https://github.com/user-attachments/assets/74bcdbcf-6bd5-4683-a3e2-22bb0e3be9ed" />
